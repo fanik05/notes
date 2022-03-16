@@ -1,0 +1,28 @@
+{
+  "notes": [
+    {
+      "content": "HTML is easy",
+      "date": "2022-03-16T05:01:32.778Z",
+      "important": false,
+      "id": 1
+    },
+    {
+      "content": "Browser can execute only javascript",
+      "date": "2022-03-16T05:04:37.653Z",
+      "important": false,
+      "id": 2
+    },
+    {
+      "content": "GET and POST are most important methods of HTTP protocol",
+      "date": "2022-03-16T05:05:41.863Z",
+      "important": true,
+      "id": 3
+    },
+    {
+      "content": "POST is used to add data in REST api",
+      "date": "2022-03-16T05:14:36.374Z",
+      "important": true,
+      "id": 4
+    }
+  ]
+}
