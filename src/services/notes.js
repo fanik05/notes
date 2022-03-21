@@ -1,6 +1,6 @@
 import axios from 'axios'
 
-const baseUrl = 'http://localhost:3001/notes'
+const baseUrl = 'https://notes-backend-fanik.herokuapp.com/api/notes'
 
 const getAll = () =>
   axios.get(baseUrl).then(response =>
